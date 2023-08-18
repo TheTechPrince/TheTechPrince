@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Prince
-- 👀 I’m interested in Cybersecurity and to improve my skills, and knowledge.
-- 🌱 I’m currently learning the foundations of cybersecurity and figuring out how can be a true asset to protect the world from threat actors.
-- 📫 You can reach me by e-mail: Princelow90@icloud.com
+- As a motivated student with an educational background in cybersecurity, I am eager to apply my knowledge of network security and risk management to real world scenarios. with passion for learning about emerging threats and technologies, I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk. 
 
 <!---
 TheTechPrince/TheTechPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
