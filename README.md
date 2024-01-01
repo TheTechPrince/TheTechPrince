@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Prince
-- As a motivated student with an educational background in cybersecurity, I am eager to apply my knowledge of network security and risk management to real world scenarios. with passion for learning about emerging threats and technologies, I am enthusiastic about information security and enjoy finding solutions that can positively impact an organization and the people it serves. I place a high value on maintaining a strong security posture to help protect sensitive information and mitigate risk.
-- You can reach me @ Princelow90@icloud.com
+<h1>Welcome, I'm Prince, an <a href="https://linkedin.com/in/prince-muhammad-2a4702269IT Professional</a>👨‍💻</h1>
 
-<!---
-TheTechPrince/TheTechPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/TheTechPrince/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/TheTechPrince/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/TheTechPrince/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TheTechprince/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TheTechPrince/azure-network-protocols)
+- <b>User Created Script</b>
+  - [Script: Creating additional Users](https://github.com/TheTechPrince/Script)
+
+
+
+
